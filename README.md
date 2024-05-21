@@ -6,3 +6,7 @@
 
 |Tabla1||Tabla2|
 |------||------|
+
+| Encabezado 1 | Encabezado 2 |
+|--------------|--------------|
+| Dato 1 | Dato 2 |
