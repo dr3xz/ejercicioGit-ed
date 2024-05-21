@@ -5,7 +5,7 @@
 2. Segundo ejemplo
 
 |Tabla1||Tabla2|
-|------||------|
+|---||---|
 |Dato1||Dato2|
 
 | Encabezado 1 | Encabezado 2 |
